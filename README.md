@@ -44,7 +44,8 @@
 - Performed an EDA, noting that oxygen levels are no longer supported/reported in 2025, allowing for accuracy comparison in LLM summary generation
 
 **Tommy**
-- Got OPEN API Key and wrote python script draft
+- Got OPENAI API Key
+- Wrote python script draft
 
 **Ryan** 
 - Supported me in tying the backend of R Shiny web from python 
