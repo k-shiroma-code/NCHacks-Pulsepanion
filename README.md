@@ -35,7 +35,18 @@
 - Connected backend to the R Shiny UI using `reticulate`  
 - Built the PDF export pipeline with `rmarkdown` and custom formatting
 
----
+**Amine**
+- Built UI (Frontend) with R Shiny
+
+**Mikhaela**
+- Helped analyze data and merge the 3 original datasets into one
+- Performed an EDA, noting that oxygen levels are no longer supported/reported in 2025, allowing for accuracy comparison in LLM summary generation
+
+**Tommy**
+-Got OPEN API Key and wrote python script draft
+
+**Ryan** 
+-Supported me in tying the backend of R Shiny web from python 
 
 ## 📂 How to Run Locally
 
