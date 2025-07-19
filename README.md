@@ -37,6 +37,7 @@
 
 **Amine**
 - Built UI (Frontend) with R Shiny
+- Built multilingual function 
 
 **Mikhaela**
 - Helped analyze data and merge the 3 original datasets into one
