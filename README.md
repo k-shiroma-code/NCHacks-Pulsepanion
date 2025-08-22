@@ -25,7 +25,7 @@
 
 ---
 
-## Team Contributions
+## Contributions
 
 ### **Kyle Shiroma (Team Lead)**
 - Directed project scope and coordinated team meetings  
@@ -34,22 +34,6 @@
   - Integration with OpenAI’s LLM for clinical summary generation  
 - Connected backend to R Shiny UI via **reticulate**  
 - Developed PDF export pipeline using **rmarkdown** with custom formatting  
-
-### **Amine**
-- Built the frontend UI with **R Shiny**  
-- Implemented multilingual functionality  
-
-### **Mikhaela**
-- Merged three original datasets into a unified dataset  
-- Conducted exploratory data analysis (EDA), identifying that oxygen levels were no longer reported in 2025, enabling accuracy comparisons in LLM-generated summaries  
-
-### **Tommy**
-- Obtained OpenAI API key  
-- Drafted initial Python script  
-
-### **Ryan**
-- Assisted in integrating Python backend with R Shiny web application  
-
 
 ## 📂 How to Run Locally
 
